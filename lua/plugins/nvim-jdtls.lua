@@ -3,5 +3,5 @@ return {
     ft = "java",
     config = function()
         require("java-setup").setup()
-    end
+    end,
 }
